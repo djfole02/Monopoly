@@ -1,0 +1,12 @@
+Set forth are the current thoughts on how to do things:
+
+Status of Jail:
+	1 - Jail
+	0 - No Jail
+Status of Property:
+	(>0) - Owner
+	(-1) - No owner
+	(-2) - Unable to be purchased
+
+
+
